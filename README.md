@@ -1,6 +1,4 @@
-# Project Template: React/Rails API
-
-## Description
+# Description
 
 Project created to be a sandbox for phase 4 live coding practice
 
