@@ -14,6 +14,13 @@ Open a second terminal and change into the client directory run
 
 `npm install`
 
+In your backend terminal run
+```rails s```
+
+and in the client terminal run
+
+```npm start```
+
 # Instructions
 
 First go over the code that's in here. It's ok if you aren't 100% sure on how I've written something as long as you have an understanding how its working. For the associations
