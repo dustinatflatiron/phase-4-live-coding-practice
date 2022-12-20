@@ -1,6 +1,6 @@
 # Description
 
-Project created to be a sandbox for phase 4 live coding practice
+Project created to be a sandbox for phase 4 live coding practice. This is not all inclusive on what you may be asked to do. Be ready for anything!
 
 # Installation
 
